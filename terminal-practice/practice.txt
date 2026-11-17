@@ -1,0 +1,2 @@
+This is the first line of my practice file.
+This is the second line added using append.
