@@ -46,6 +46,15 @@ Each mission in this assignment was completed individually in sequence, document
 
 ---
 
+## My Learning
+During the first five missions of this assignment, here are key concepts I have learned:
+1. **Command Line Confidence:** I learned how to navigate directories and inspect system files using terminal commands like `pwd`, `ls -lah`, and pipes (`|`), which is much faster than using a GUI file manager.
+2. **How the OS Manages Resources:** I discovered how processes are assigned unique PIDs and scheduled by the operating system kernel, and how file permissions (`rwx`) safeguard files across user accounts.
+3. **Number Systems & Binary Logic:** Working through manual divisions and positional sums helped me connect why computers use binary at the hardware level and why hexadecimal is used as a convenient shorthand for 4-bit nibbles.
+4. **Program Execution Models:** I gained a clear understanding of the difference between pre-compiled native binaries (like C/C++) and line-by-line runtime interpretation (like Python).
+
+---
+
 ## How to Run the Number Converter
 Once you reach Mission 5, you can run the interactive number converter program from your terminal:
 ```bash
